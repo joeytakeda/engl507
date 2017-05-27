@@ -1,2 +1,3 @@
-# engl507
-Core repository for ENGL507 @ UVic.
+# English 507
+
+This is the core repository for ENGL507 @ UVic taught by Jentery Sayers. 
