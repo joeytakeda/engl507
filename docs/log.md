@@ -220,34 +220,53 @@ Design brief (2-3 pages):
 
 ## Working Design Brief
 
-**Working title**: The Public TRC
-**Tagline**: ???
-**Type**: A digital edition / a toolset for doing similar work
-Concept/function: To have a minimal but rigorously encoded version of the TRC for preservation in archives as well as text analysis work; however, ths will be a working model for people who wish to take other PDF government documents and turn them into online editions
+**Working title**:
+ The Public TRC
 
-**Description**: Creating an accessible version of the TRC with the 
+**Tagline**:
+ ???
 
-**Purpose**: So that the TRC can be "unlocked" from its PDF form; be edited and preserved in a language that outlasts PDF (and is smaller); is subject to critique through text analysis tools; can be owned and distributed, rethought, and worked with by others. (Explanation not necessary but: right now, most of the TRC documents are either in print OR hosted by a for-profit web design company called "My Robust.")
+**Type**: 
+A digital edition / a toolset for doing similar work
 
-Domain: Contemporary
-Structure: A website on GitHub with a build/distribution
-Scope: My project's scope will feature the summary report, which contains survivor testimony, calls to action, and hisorical background (basically just a condensed version of the other reports).
-Recipe: Build process that:
-	* Splits PDFs,
-	* Turns it into PNGs
-	* Uses tesseract (open-source) to create HOCR (near HTML files of the PDFs)
-	* Use a conversion from HOCR --> TEI
-	* Edit the TEI and do some light encoding that will be necessary for this to be a rich text
-	* Create a version of the TRC that is
-		* Readable, scannable, searchable, "minable", etc. 
-Aesthetic: "Ed"-esque, but without Jekyll. Pure TEI --> HTML using XSLT (and maybe some BASH scripting)
-Biases:
-	* That people want this
-	* That PDFs are not incredibly sustainable, easily corruptable, design oriented rather than textually significant
-	* This is thus a slight critique of design *for design's sake* rather than the relationship between design and function
+**Concept/function**:
+To have a minimal but rigorously encoded version of the TRC for preservation in archives as well as text analysis work; however, ths will be a working model for people who wish to take other PDF government documents and turn them into online editions
 
-Influences: 
-	* Digital editing projects, as well as Ed...but in critique of Ed as the necessity for simplicity
+**Description**:
+Creating an accessible version of the TRC with the 
+
+**Purpose**:
+So that the TRC can be "unlocked" from its PDF form; be edited and preserved in a language that outlasts PDF (and is smaller); is subject to critique through text analysis tools; can be owned and distributed, rethought, and worked with by others. (Explanation not necessary but: right now, most of the TRC documents are either in print OR hosted by a for-profit web design company called "My Robust.")
+
+**Domain**:
+Contemporary
+
+**Structure**: 
+A website on GitHub with a build/distribution
+
+**Scope**:
+My project's scope will feature the summary report, which contains survivor testimony, calls to action, and hisorical background (basically just a condensed version of the other reports).
+
+**Recipe**:
+Build process that:
+* Splits PDFs,
+* Turns it into PNGs
+* Uses tesseract (open-source) to create HOCR (near HTML files of the PDFs)
+* Use a conversion from HOCR --> TEI
+* Edit the TEI and do some light encoding that will be necessary for this to be a rich text
+* Create a version of the TRC that is
+  * Readable, scannable, searchable, "minable", etc. 
+
+**Aesthetic**: 
+"Ed"-esque, but without Jekyll. Pure TEI --> HTML using XSLT (and maybe some BASH scripting)
+
+**Biases**:
+* That people want this
+* That PDFs are not incredibly sustainable, easily corruptable, design oriented rather than textually significant
+* This is thus a slight critique of design *for design's sake* rather than the relationship between design and function
+
+**Influences**: 
+* Digital editing projects, as well as Ed...but in critique of Ed as the necessity for simplicity
 
 * The larger sort of /dist/ here is that the code can be forked to be used for any multipage PDFs to turn into TEI and then accessible HTML. The problem, however, is that it will necessarily need to be customizable. 
 
