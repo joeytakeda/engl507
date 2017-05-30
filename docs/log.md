@@ -230,10 +230,10 @@ Working with Python: how might responsibility be distributed across modules, fun
 A digital edition / a toolset for doing similar work
 
 **Concept/function**:
-To have a minimal but rigorously encoded version of the TRC for preservation in archives as well as text analysis work; however, ths will be a working model for people who wish to take other PDF government documents and turn them into online editions
+To have a minimal but rigorously encoded version of the TRC for preservation in archives as well as text analysis work; hopefully, this could be forked on GitHub so that people could create similarly made minimal editions.
 
 **Description**:
-Creating an accessible version of the TRC with the 
+Creating an accessible version of the TRC with companion TEI and TXT files. 
 
 **Purpose**:
 So that the TRC can be "unlocked" from its PDF form; be edited and preserved in a language that outlasts PDF (and is smaller); is subject to critique through text analysis tools; can be owned and distributed, rethought, and worked with by others. (Explanation not necessary but: right now, most of the TRC documents are either in print OR hosted by a for-profit web design company called "My Robust.")
@@ -267,7 +267,10 @@ Build process that:
 
 **Influences**: 
 * Digital editing projects, as well as Ed...but in critique of Ed as the necessity for simplicity
-
 * The larger sort of /dist/ here is that the code can be forked to be used for any multipage PDFs to turn into TEI and then accessible HTML. The problem, however, is that it will necessarily need to be customizable. 
+
+**TO READ**:
+Sterne's MP3 book; why format studies are important
+
 
 ## May 31
