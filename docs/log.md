@@ -202,7 +202,7 @@ Working with Python: how might responsibility be distributed across modules, fun
 
 ## May 30
 
-Design brief (2-3 pages):
+### Design brief (2-3 pages):
 * Working title
 * Tagline
 * Type
@@ -218,7 +218,7 @@ Design brief (2-3 pages):
 * Influences
 
 
-## Working Design Brief
+### Working Design Brief
 
 **Working title**:
  The Public TRC
