@@ -198,6 +198,24 @@ Working with Python: how might responsibility be distributed across modules, fun
 
 ## May 29
 
+[[Missed this day, so will have to write things about]]
+
 ## May 30
+
+Things necessary for design briefs:
+* Working title
+* Tagline
+* Type
+* Concept/Function
+* Description
+* Purpose
+* Domain (period, genre, etc)
+* Structure
+* Scope
+* Recipe
+* Aesthetic
+* Biases
+* Influences
+
 
 ## May 31
