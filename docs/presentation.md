@@ -43,3 +43,4 @@ makes in a particular area of scholarship
 
 * What are the best formats for reading that you find, other than PDF (do you use Ebooks? Would it be useful to be created as that?)
 * How would you interact with such a long text? Would it be useful to have saved annotations?
+* Should I retain page breaks in my encoding of the text? In other words, What am I doing an edition of? Is it the book itself or just the text? Are the page breaks significant in the same way that the page breaks in a printing of Shakespeare is? It's not a semantic unit, but a stylistic unit based on the restrictions of the medium. Should I be faithful to that? (I'm leaning toward no.)
