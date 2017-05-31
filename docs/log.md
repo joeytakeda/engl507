@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Worklog
@@ -274,3 +275,73 @@ Sterne's MP3 book; why format studies are important
 
 
 ## May 31
+
+### Presentations
+
+#### Heidi + Rachel
+
+* Highlighting the passive voice
+* Transparency and accessibility
+* Web browser plug-in
+* Q: Is the passive voice political, or it is simply bad writing?
+* Outcome: to promote the crtiical consumption of media, and for users to encourage others to do the same
+* Uses:
+  * Pedagogical Tool
+  * Affect studies
+  * Implement confidence ratings
+
+#### Alyssa
+
+* Working on Richard Siken's "Ghost, Zero, Suitcase, and the Moon" from *War of the Foxes*
+* Working with flash, audacity
+* Using computer to reimagine form to comment on the content
+* Relationship between "aesthetic image" and ability; dis/in/ability in minimal DH
+* As a tool for elucidaition
+* Computer as a device for remediation
+* As a redux and summary of the course
+
+#### Riley
+
+* Title: *Ulysses* through time
+* Physical exhibit that traces the publication history of *Ulysses* through time
+* Hopefully a live exhibit, but might need to be a mockup (time, resources, availability, etc)
+* Audience: The UVic community and the literary public
+* Not addressing current criticism about the work; only criticism contemporary to the work
+* SC might not have all of the editions; it becomes edition
+* How can the exhibit go beyond the visual and the mobile?
+
+#### Luke
+
+* Wordchipper:
+  * Breaks up texts into words and replaces parts of speech from another text
+  * Dictional minimalism
+* Written in Python and Javascript
+* What other applications? 
+
+
+#### Brooke
+
+* Focus on the connections between the Romantics
+* Inspired by Linked Jazz and *Young Romantics: The Tangled Lives of English Poetry's Greatest Generation* by Daisy Hay
+
+
+#### Rachel
+
+
+#### Michael
+
+
+#### Hector / Reuben
+
+
+
+
+
+
+
+
+
+
+
+
+
