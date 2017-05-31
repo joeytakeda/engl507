@@ -26,6 +26,7 @@ and architecture)
   * Hand-proofing the text and structure to ensure correctness
   * Then, writing a translation from the TEI-XML to HTML5
   * Producing site from that
+  * The entire site will be on GitHub, so that everything can be downloaded easily
 * My proof-of-concept for this project will be one volume of the TRC: Volume 4 "Missing Children and Unmarked Burials" since it contains mostly appendices of important data. The appendix that gives the location, opening, and closing date of all residential schools will be particularly important for scholars; I am planning (in a later phase of development) to correlate those locations (using Open Maps data) to the Open Maps implemented Native Land project
 
 
@@ -36,6 +37,7 @@ makes in a particular area of scholarship
 * It gives greater flexibility of analysis and interlinking between indigenous lead projects that are concerned with the TRC (compositional) 
 * Easier to read (functional)
 * Archivable and much lighter weight than the PDFs (which are about 10-15mb a piece whereas the text file is at most 1.2mb) (architectural)
+* It allows for the use of the wealth of resources contained within the reports (particularly statistics and bibliographies)
 
 > Questions you have for your peers and me.
 
