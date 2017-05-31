@@ -6,12 +6,25 @@ title: Worklog
 
 # Log
 
-## May 23
+## TOC
+
+* [May 23](#may23)
+* [May 24](#may24)
+* [May 25](#may25)
+* [May 26](#may26)
+* [May 27](#may27)
+* [May 28](#may28)
+* [May 29](#may29)
+* [May 30](#may30)
+* [May 31](#may31)
+
+
+## <span id="may23"/>May 23 
 
 This class, as the introduction, gave us a quick synopsis of the field. The E-literature stuff (from Hayles) was really interesting, particularly in terms of the long history of experimentation and play that mark digital literary studies. Of particular interest, too, was the boundary between critic and creator in the production of E-Lit.
 
 
-## May 24
+## <span id="may24"/>May 24
 
 Prompt: Why would you create or want to provide a scholarly reading edition? Why would you use markdown?
  
@@ -83,7 +96,7 @@ One more interface per text: choose your own interface/framework
 	Actual wireframe to show
 
 
-## May 25
+## <span id="may25"/>May 25
 
 We keep coming back to the question of *audience* and the deep forms of interaction that are enabled (but also disallowed) by minimalism.
 
@@ -197,11 +210,11 @@ What happens when you flatten material so that people can navigate it? To what e
 Working with Python: how might responsibility be distributed across modules, functions, etc? (Does Python distinguish between public and private class like Java?)
 
 
-## May 29
+## <span id="may29"/>May 29
 
 [[Missed this day, so will have to write things about]]
 
-## May 30
+## <span id="may30"/>May 30
 
 ### Design brief (2-3 pages):
 * Working title
@@ -274,7 +287,7 @@ Build process that:
 Sterne's MP3 book; why format studies are important
 
 
-## May 31
+## <span id="may31"/>May 31
 
 ### Presentations
 
@@ -323,16 +336,54 @@ Sterne's MP3 book; why format studies are important
 
 * Focus on the connections between the Romantics
 * Inspired by Linked Jazz and *Young Romantics: The Tangled Lives of English Poetry's Greatest Generation* by Daisy Hay
-
+* Except, Linked Jazz has a figure at the center; not wanting a central person in the prototype
+* Each person: 
+  * Photo
+  * Bio
+  * Connective line [text, image, ???]
+* The time that the work was done
+* The type of relationship
+  * With a wide variety of non-mutually-exclusive relationships
+* Using Palladio and a CSV (it's an interesting way to create this sort of visualization)
+* Who deems the necessary info that people want?
+  * You could have selectors on the side
+* Filetype would be spreadsheets
 
 #### Rachel
 
+* Title: NOTES TO MY MUSE, *in sonic flesh*
+* A sonic melding of WC lesbian poets (Chrystos, Betsy Warland, Daphne Marlatt), the A LOT archive @ SFU, and her own monograph
+* [[This is very interesting, particularly in relation to theories of affect. Eve Sedgwick's work in *Touching, Feeling*, particularly her work on "texture" is interesting]]
+* Influences: Hayley Newman, "Microphone Skirt"; Kaffe Mathews, "Music for Bodies"; Peaches; Anaïs Nin
+* What sort of harmonies/cacophonies are you trying to strike in this project? Thinking about Chrystos being associated with Riot Grrrrl?
+* The relationship between bodies and sound and affect and technology? 
 
 #### Michael
+
+* Title: "In Dialogue: Thomas Hardy's *The Woodlanders* and the French Impressionists"
+* Pairing French impressionist paintings with quotations from Hardy
+* Using evidence to make the connection, but not making any claim about the connection (no causality)
 
 
 #### Hector / Reuben
 
+* Norman "The Mauler" Mailer
+* Humanizing the author
+* How can we address the problems of accessibility?
+* How to indicate curatorial decisions?
+* What is your scope?
+  * Might just be around Norman Mailer 
+
+#### My Presentation
+
+* Readability: chapters, TOC.
+
+
+### Workshop
+
+* Pair up organically with two other people to peer-review
+* Persona design
+* Make sure the feedback is in your log
 
 
 
