@@ -27,7 +27,7 @@ I was skeptical of Markdown initially. I've had to parse it many times before an
 
 We made five versions of George Herbert "Easter Wings," which we found on poetry.org:
 
-![Version of Herbert's poem from poetry.org](https://github.com/joeytakeda/engl507/images/easter_wings_source.png "George Herbert's Easter Wings. Source: https://www.poetryfoundation.org/poems-and-poets/poems/detail/44361")
+![Version of Herbert's poem from poetry.org](../images/easter_wings_source.png "George Herbert's Easter Wings. Source: https://www.poetryfoundation.org/poems-and-poets/poems/detail/44361")
 
 Using PanDoc to convert our Markdown file was not as satisfying as I had hoped. We used both the online platform and the command line version. The major drawback to the online platform is that it gives an HTML fragment and not a well-structured document. But how could it? How can you encode header material into your Markdown document? Put another way, how can you encode information that is important to your document without it necessarily being rendered on the page? 
 
