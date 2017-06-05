@@ -50,22 +50,19 @@ I was skeptical of Markdown initially. I've had to parse it many times before an
 **On Functional Minimalism**
 
 Prompt: Why would you create or want to provide a scholarly reading edition? Why would you use markdown?
+
+This was a conversation between MC and JT about the prompt:
  
-MC: If we’re thinking about a minimalist aesthetics, it foregrounds the meaning of text--but of course the aesthetics of the “original” text has meaning already. This is the *design* part of minimalism, but in terms of the functional, computing aspects of minimalism, then the big thing is accessibility. Small file-sizes, for example. But why would we do a minimalist edition of something like David Copperfield or War in Peace...do people want that?
- 
-JT: I think people would, especially those who don’t have access to the scholarly editions published by Norton, etc. 
- 
-MC: Is access a problem for canonical texts like the above? One can go into a library
- 
-JT: Or purchase a $1 edition of the texts.
- 
-[...]
- 
-JT: My hesitation with minimal editions is this: why do we have to sacrifice editorial nuance for access? Worries about the pragmatics of the labour of marking up: it does provide jobs for students and offers a good pedagogical opportunity. 
- 
-MC: Who is the audience for Ed? 
- 
-And what about huge corpora? 
+> MC: If we’re thinking about a minimalist aesthetics, it foregrounds the meaning of text--but of course the aesthetics of the “original” text has meaning already. This is the *design* part of minimalism, but in terms of the functional, computing aspects of minimalism, then the big thing is accessibility. Small file-sizes, for example. But why would we do a minimalist edition of something like *David Copperfield* or *War in Peace*...do people want that?
+> JT: I think people would, especially those who don’t have access to the scholarly editions published by Norton, etc.  
+> MC: Is access a problem for canonical texts like the above? One can go into a library 
+> JT: Or purchase a $1 edition of the texts.
+> [...]
+> JT: My hesitation with minimal editions is this: why do we have to sacrifice editorial nuance for access? Worries about the pragmatics of the labour of marking up: it does provide jobs for students and offers a good pedagogical opportunity. 
+> MC: Who is the audience for Ed? 
+> JT: And what about huge corpora? 
+
+
  
 ## Notes from class 
  
@@ -103,13 +100,19 @@ Our poem: Shakespeare's Sonnet 73. This sonnet is about time and memory, and the
  
 Interface 1: Time
 We spread the fourteen lines of the sonnet out vertically at increasing distances, so that a reader would need to scroll to continue reading. Eventually, the reader would experience long stretches of blank screen before arriving at the next line. Thus, time breaks are imposed on the reading experience.
+
+![Interface1](../images/interface2.png "Interface 1 (made in Wireframe.cc)")
+
  
 Interface 2: Space
 We separated the last two lines of the sonnet from the rest of the poem, so that the reader would need to scroll down to read the last two lines, at which point the first twelve lines would no longer be visible. Thus, the experience of reading the last two lines of the poem would be accompanied by the memory of the earlier parts of the poem, without the benefit of the lines themselves.
+
+![Interface1](../images/interface3.png "Interface 2 (made in Wireframe.cc)")
  
 Interface 3: Annotation
 We embedded annotations in the text itself, so that the annotations are stylistically indistinguishable from the poem.
  
+![Interface1](../images/interface4.png "Interface 3 (made in Wireframe.cc)")
  
 Interrogating the relationship between interface and content; what is the function of the text?
  
