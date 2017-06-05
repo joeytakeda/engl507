@@ -101,7 +101,7 @@ Our poem: Shakespeare's Sonnet 73. This sonnet is about time and memory, and the
 Interface 1: Time
 We spread the fourteen lines of the sonnet out vertically at increasing distances, so that a reader would need to scroll to continue reading. Eventually, the reader would experience long stretches of blank screen before arriving at the next line. Thus, time breaks are imposed on the reading experience.
 
-![Interface1](../images/interface2.png "Interface 1 (made in Wireframe.cc)")
+![Interface1](../images/interface1.png "Interface 1 (made in Wireframe.cc)")
 
  
 Interface 2: Space
@@ -112,7 +112,7 @@ We separated the last two lines of the sonnet from the rest of the poem, so that
 Interface 3: Annotation
 We embedded annotations in the text itself, so that the annotations are stylistically indistinguishable from the poem.
  
-![Interface1](../images/interface4.png "Interface 3 (made in Wireframe.cc)")
+![Interface1](../images/interface5.png "Interface 3 (made in Wireframe.cc)")
  
 Interrogating the relationship between interface and content; what is the function of the text?
  
