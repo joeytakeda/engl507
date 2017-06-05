@@ -61,36 +61,6 @@ This was a conversation between MC and JT about the prompt:
 > JT: My hesitation with minimal editions is this: why do we have to sacrifice editorial nuance for access? Worries about the pragmatics of the labour of marking up: it does provide jobs for students and offers a good pedagogical opportunity. 
 > MC: Who is the audience for Ed? 
 > JT: And what about huge corpora? 
-
-
- 
-## Notes from class 
- 
-Alyssa: Annotations and other scholarly apparatus isn’t the most accessible; operates as a textual gatekeeper. 
- 
-Accessibility is a big focus.
- 
-Problem of labour and how do people get *paid* for it?
- 
-JS: Why not have a layer? 
- 
-** JT to ask projects: can we create plain-text versions of our primary sources [or everything, I suppose]; easier for digesting texts and doing text-analysis through tools like Voyant
- 
-Heavy industries: Reducing the agency of the reader; maximalist software (Flash), but minimalist aesthetics; using Flash for text
- 
-Expanded Cinema: integrates the audience into the work
- 
-What can people in DH learn from visual culture (or what is the relationship between visual culture and DH?)
- 
-Building spaces for interaction; not interested in creating “content” but media that can be interpreted by machines; producing forms, not necessarily content; allows for the free-play of the material
- 
-Galloway: diegetic and non-diegetic machine operations
- 
-LISP: Minimal syntax that encourages use.
- 
-Programming language as minimalist?
- 
-Voyant: The use of the “Reveal” button; delegate responsibility of hermeneutics to the computer
  
 ### Interface Workshop
  
@@ -98,29 +68,39 @@ Task: Use a mockup tool to design three interfaces for the same minimalist poem,
  
 Our poem: Shakespeare's Sonnet 73. This sonnet is about time and memory, and the last two lines are reflective on the rest of the poem.
  
-Interface 1: Time
+#### Interface 1: Time
+
 We spread the fourteen lines of the sonnet out vertically at increasing distances, so that a reader would need to scroll to continue reading. Eventually, the reader would experience long stretches of blank screen before arriving at the next line. Thus, time breaks are imposed on the reading experience.
 
-![Interface1](../images/interface1.png "Interface 1 (made in Wireframe.cc)")
+![Interface1](../images/interface3.png "Interface 1 (made in Wireframe.cc)")
 
  
-Interface 2: Space
+#### Interface 2: Space
 We separated the last two lines of the sonnet from the rest of the poem, so that the reader would need to scroll down to read the last two lines, at which point the first twelve lines would no longer be visible. Thus, the experience of reading the last two lines of the poem would be accompanied by the memory of the earlier parts of the poem, without the benefit of the lines themselves.
 
-![Interface1](../images/interface3.png "Interface 2 (made in Wireframe.cc)")
+![Interface1](../images/interface1.png "Interface 2 (made in Wireframe.cc)")
  
-Interface 3: Annotation
+#### Interface 3: Annotation
 We embedded annotations in the text itself, so that the annotations are stylistically indistinguishable from the poem.
  
 ![Interface1](../images/interface5.png "Interface 3 (made in Wireframe.cc)")
  
-Interrogating the relationship between interface and content; what is the function of the text?
- 
-One more interface per text: choose your own interface/framework
-	Think about content and interface relations
-	Function (functional minimalism)
-	Actual wireframe to show
 
+
+#### Notes from class 
+
+* Alyssa: Annotations and other scholarly apparatus are not the most accessible; operates as a textual gatekeeper. 
+* Accessibility is a big focus.
+* Problem of labour and how do people get *paid* for it?
+  * But this is the problem with the minimal edition; if everyone can create a lightweight edition, then the pedagogical and economic opportunities for student researchers are limited. To put another way: if professors no longer feel the need to collaborate with students, where does that leave the students' labour? 
+* Heavy industries: Reducing the agency of the reader; maximalist software (Flash), but minimalist aesthetics; using Flash for text
+  * My favourite of today's case studies, I think. The poems work with and through time and space (to riff slightly off of Tara McPherson's article) in incredibly persuasive ways. They function as an inversion of the relationship between words and music; it is not that the lyrics do something with the music, but rather that the poetry produces sound as it appears on screen--a play between signified and signifier. 
+* Expanded Cinema: integrates the audience into the work
+* What can people in DH learn from visual culture? Or, what is the relationship between visual culture and DH?
+  * To follow up from JS's question here: I think of W.J.T Mitchell's question, "What do pictures want?" I think we can ask the same of interfaces (I think that is what this workshop has been doing); but can we think of code or circuits as desiring? And, to continue on with thinking with Mitchell's work, is the computer or code subaltern in similar ways to other media? It's a dangerous question, particularly since computing, priviledge, and power are interlocked, especially in relation to surveillance and advertising.
+* Building spaces for interaction; not interested in creating “content” but media that can be interpreted by machines; producing forms, not necessarily content; allows for the free-play of the material
+  * How can 
+* Voyant: The use of the “Reveal” button; delegate responsibility of hermeneutics to the computer
 
 ## May 25
 
