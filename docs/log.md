@@ -385,7 +385,9 @@ Sterne's MP3 book; why format studies are important
 * Persona design
 * Make sure the feedback is in your log
 
+### Michael's Feedback
 
+* Not a passive reading
 
 
 
