@@ -29,20 +29,26 @@ We made five versions of George Herbert "Easter Wings," which we found on poetry
 
 ![Version of Herbert's poem from poetry.org](../images/easter_wings_source.png "George Herbert's Easter Wings. Source: https://www.poetryfoundation.org/poems-and-poets/poems/detail/44361")
 
+Our versions were:
+* [easter-wings.txt](easter-wings.txt): regular transcription with tabs/spaces before each line (done in TextWrangler)
+* [easter-wings-2.txt](easter-wings-2.txt): experiment with nesting block quotations
+* [easter-wings-3.txt](easter-wings-3.txt): justified text
+* [easter-wings-4.txt](easter-wings-4.txt): descending headers
+* [easter-wings-5.txt](easter-wings-5.txt): ascending headers
+
+Before we converted the text, we hypothesized:
+* "Version 2 will not work, because we extrapolated from the instructions; we took the instructions and made an intuitive leap" (MC)
+* "I am also wary of version 2, but I am also hesitant about version 1 as I'm not positive that while-space is fully preserved in Markdown (but maybe it is!)" (JT)
+
+Our respective hypotheses were both more-or-less correct. V2 hadn't worked as we'd hoped originally, but we did get it to convert in the end.
+
 Using PanDoc to convert our Markdown file was not as satisfying as I had hoped. We used both the online platform and the command line version. The major drawback to the online platform is that it gives an HTML fragment and not a well-structured document. But how could it? How can you encode header material into your Markdown document? Put another way, how can you encode information that is important to your document without it necessarily being rendered on the page? 
 
 The other feature of the Markdown to HTML conversion through PanDoc is the lack of hierarchy. Michael and I struggled for quite a while to get the nested features of Gerald Manly Hopkin's "Easter Wings" to render correctly. Header levels worked nicely, but nested quotations were difficult to work out.
 
-easter-wings.txt: regular transcription with tabs/spaces before each
-line (done in textwrangler) easter-wings-2: experiment with nesting
-block quotations easter-wings-3: justified (and thus rectangular)
-version with a lot of empty space in the middle easter-wings-4:
-Descending headers (which imitates the structure of the poem)
-easter-wings-5: ascending headers (which reverses the structure of the
-poem).
 
 ## Before conversion
-## 
+
 Hypothesis (MC): version 2 will not work, because we extrapolated from the
 instructions; we took the instructions and made an intuitive leap. 
 Hypothesis (JT): I too am wary of version 2, but I am also slightly hesitant about version 1
