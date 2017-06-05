@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="Build Log">
+  <description>This builds the log, which needs to be tidied up a bit before being published</description>
+    
+    
+    <fileset dir="docs" id="logFiles">
+        <include name="**"/>
+    </fileset>
+    
+    <target name="convertToHtml">
+        <exec command="pandoc">
+            
+        </exec>
+    </target>
+</project>
