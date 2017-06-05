@@ -12,16 +12,11 @@
 
 
 ## May 23 
+***Introduction***
 
 The introductory class spoke to some of the questions I had regarding the relationship between forms of minimalism and the digital humanities. DH is often critiqued, at least in my experience, on its reliance on awe-inspiring productions and complex features that can be seen to foreclose forms of the nuanced and close critical work that have traditionally structured literary studies. Before class, I was curious about the relationship between minimalism and practical criticism: how might minimalism be viewed as a response to the maximalist practices of distant reading and big data mining? But how might minimalism, in its impetus to strip away the extraneneous features and focus on detail, fall into similar problems as practical criticism that decades of literary criticism and theory have sought to overcome?
 
-Alex Gil's *Ed* is an interesting project to consider in relation to these questions. *Ed* offers a framework for a "minimal edition," one that is light-weight (and thus easily archivable) as well as readable. *Ed*'s minimal aesthetic brings the design practices of other online reading resources into relief, particular the platforms that flood the text with extra information and features (I can think of many provided by the library that would be the appropriate target for *Ed*'s critique). However, readability, accessibility, and archivability in *Ed*'s articulation seems to necessitate sacrificing the long-standing and rigorous editorial practices that define grammars like the Text Encoding Initiative. The insularity of DH, at least in its genesis as Kirschenbaum's geneology explicates, is certainly an issue that ought to be addressed by opening up forms of edition building; those with the technical skills (or those who have access to people with the technical skills) required to create digital editions are certainly not the only ones who should be benefiting from the affordance of digital praxis. But I do think it is
-
-I was skeptical of Markdown initially. I've had to parse it many times before and each time, I end up cursing its lack of structure. But I hadn't written in it much, so the exercise was eye-opening. I can see how Markdown is far more efficient than other word processors; I particularly like how it causes the writer to focus on exactly what they're doing when they're styling their document. I'm going to try and write my log in Markdown as an exercise to see if:
-* it's faster than writing in Word or other formats
-* it converts as well as I'd like it to, if I need it to be in other formats (like HTML or Word)
-* it enables forms of engagement with my writing that might help open up my writing process
-  * I've used apps before like "[The Most Dangerous Writing App](http://www.themostdangerouswritingapp.com/)" to aid in writing seminar papers. While TMDWA is an aggressive platform that attempts to disassociate the act of writing from the act of over-thinking, Markdown can be written under any conditions and might work to disentangle the act of writing from the anxiety-inducing empty page.
+Alex Gil's *Ed* is an interesting project to consider in relation to these questions. *Ed* offers a framework for a "minimal edition," one that is light-weight (and thus easily archivable) as well as readable. *Ed*'s minimal aesthetic brings the design practices of other online reading resources into relief, particular the platforms that flood the text with extra information and features (I can think of many provided by the library that would be the appropriate target for *Ed*'s critique). However, readability, accessibility, and archivability in *Ed*'s articulation seems to necessitate sacrificing the long-standing and rigorous editorial practices that define grammars like the Text Encoding Initiative. The insularity of DH, at least in its genesis as Kirschenbaum's geneology explicates, is certainly an issue that ought to be addressed by opening up forms of edition building; those with the technical skills (or those who have access to people with the technical skills) required to create digital editions are certainly not the only ones who should be benefiting from the affordance of digital praxis. However, I don't think the correct solution is to obviate the need for editorial complexity by foregrounding aesthetic simplicity; instead, I would argue that the equilibrium of complexity and simplicity is what makes an edition both academically rigorous as well as accessible and archivable.
 
 ### Workshop
 
@@ -30,7 +25,7 @@ We made five versions of George Herbert "Easter Wings," which we found on poetry
 ![Version of Herbert's poem from poetry.org](../images/easter_wings_source.png "George Herbert's Easter Wings. Source: https://www.poetryfoundation.org/poems-and-poets/poems/detail/44361")
 
 Our versions were:
-* [easter-wings.txt](easter-wings.txt): regular transcription with tabs/spaces before each line (done in TextWrangler)
+* [easter-wings-1.txt](easter-wings-1.txt): regular transcription with tabs/spaces before each line (done in TextWrangler)
 * [easter-wings-2.txt](easter-wings-2.txt): experiment with nesting block quotations
 * [easter-wings-3.txt](easter-wings-3.txt): justified text
 * [easter-wings-4.txt](easter-wings-4.txt): descending headers
@@ -44,25 +39,15 @@ Our respective hypotheses were both more-or-less correct. V2 hadn't worked as we
 
 Using PanDoc to convert our Markdown file was not as satisfying as I had hoped. We used both the online platform and the command line version. The major drawback to the online platform is that it gives an HTML fragment and not a well-structured document. But how could it? How can you encode header material into your Markdown document? Put another way, how can you encode information that is important to your document without it necessarily being rendered on the page? 
 
-The other feature of the Markdown to HTML conversion through PanDoc is the lack of hierarchy. Michael and I struggled for quite a while to get the nested features of Gerald Manly Hopkin's "Easter Wings" to render correctly. Header levels worked nicely, but nested quotations were difficult to work out.
+I was skeptical of Markdown initially. I've had to parse it many times before and each time, I end up cursing its lack of structure. But I hadn't written in it much, so the exercise was eye-opening. I can see how Markdown is far more efficient than other word processors; I particularly like how it causes the writer to focus on exactly what they're doing when they're styling their document. I'm going to try and write my log in Markdown as an exercise to see if:
+* it's faster than writing in Word or other formats
+* it converts as well as I'd like it to, if I need it to be in other formats (like HTML or Word)
+* it enables forms of engagement with my writing that might help open up my writing process
+  * I've used apps before like "[The Most Dangerous Writing App](http://www.themostdangerouswritingapp.com/)" to aid in writing seminar papers. While TMDWA is an aggressive platform that attempts to disassociate the act of writing from the act of over-thinking, Markdown can be written under any conditions and might work to disentangle the act of writing from the anxiety-inducing empty page.
 
-
-## Before conversion
-
-Hypothesis (MC): version 2 will not work, because we extrapolated from the
-instructions; we took the instructions and made an intuitive leap. 
-Hypothesis (JT): I too am wary of version 2, but I am also slightly hesitant about version 1
-as I'm not positive that white-space is fully preserved in markdown (but maybe it is!). 
-
-[[Add image here]]
 
 ## May 24
-
-### Reflection
-
-### Workshop
-
-### Questions
+**On Functional Minimalism**
 
 Prompt: Why would you create or want to provide a scholarly reading edition? Why would you use markdown?
  
