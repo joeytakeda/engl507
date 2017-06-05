@@ -54,12 +54,19 @@ Prompt: Why would you create or want to provide a scholarly reading edition? Why
 This was a conversation between MC and JT about the prompt:
  
 > MC: If we’re thinking about a minimalist aesthetics, it foregrounds the meaning of text--but of course the aesthetics of the “original” text has meaning already. This is the *design* part of minimalism, but in terms of the functional, computing aspects of minimalism, then the big thing is accessibility. Small file-sizes, for example. But why would we do a minimalist edition of something like *David Copperfield* or *War in Peace*...do people want that?
+>
 > JT: I think people would, especially those who don’t have access to the scholarly editions published by Norton, etc.  
+>
 > MC: Is access a problem for canonical texts like the above? One can go into a library 
+>
 > JT: Or purchase a $1 edition of the texts.
+>
 > [...]
+>
 > JT: My hesitation with minimal editions is this: why do we have to sacrifice editorial nuance for access? Worries about the pragmatics of the labour of marking up: it does provide jobs for students and offers a good pedagogical opportunity. 
+>
 > MC: Who is the audience for Ed? 
+>
 > JT: And what about huge corpora? 
  
 ### Interface Workshop
