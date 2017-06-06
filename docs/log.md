@@ -12,7 +12,7 @@
 
 
 ## May 23 
-***Introduction***
+**Introduction**
 
 The introductory class spoke to some of the questions I had regarding the relationship between forms of minimalism and the digital humanities. DH is often critiqued, at least in my experience, on its reliance on awe-inspiring productions and complex features that can be seen to foreclose forms of the nuanced and close critical work that have traditionally structured literary studies. Before class, I was curious about the relationship between minimalism and practical criticism: how might minimalism be viewed as a response to the maximalist practices of distant reading and big data mining? But how might minimalism, in its impetus to strip away the extraneneous features and focus on detail, fall into similar problems as practical criticism that decades of literary criticism and theory have sought to overcome?
 
@@ -71,9 +71,9 @@ This was a conversation between MC and JT about the prompt:
  
 ### Interface Workshop
  
-Task: Use a mockup tool to design three interfaces for the same minimalist poem, short fiction, or game of your choice.
+**Task**: Use a mockup tool to design three interfaces for the same minimalist poem, short fiction, or game of your choice.
  
-Our poem: Shakespeare's Sonnet 73. This sonnet is about time and memory, and the last two lines are reflective on the rest of the poem.
+**Our poem**: Shakespeare's Sonnet 73. This sonnet is about time and memory, and the last two lines are reflective on the rest of the poem.
  
 #### Interface 1: Time
 
@@ -106,16 +106,67 @@ We embedded annotations in the text itself, so that the annotations are stylisti
 * What can people in DH learn from visual culture? Or, what is the relationship between visual culture and DH?
   * To follow up from JS's question here: I think of W.J.T Mitchell's question, "What do pictures want?" I think we can ask the same of interfaces (I think that is what this workshop has been doing); but can we think of code or circuits as desiring? And, to continue on with thinking with Mitchell's work, is the computer or code subaltern in similar ways to other media? It's a dangerous question, particularly since computing, priviledge, and power are interlocked, especially in relation to surveillance and advertising.
 * Building spaces for interaction; not interested in creating “content” but media that can be interpreted by machines; producing forms, not necessarily content; allows for the free-play of the material
-  * How can 
+  * What is the relationship between form, content, and labour? That is, how have forms (I'm thinking in the sense of fillable forms, inspired by Lisa Gitelman's work) created seemingly labourless content? Should we always be aware of the content created from the forms with which we interact? 
 * Voyant: The use of the “Reveal” button; delegate responsibility of hermeneutics to the computer
+  * But this is a still a "hermeneutics of suspicion" insofar as the reader is wary of their own ability to uncover what the text holds. What can a computer reveal that human readers cannot? Can code get to the truth of the text in ways that human reading? If "technologies are not neutral tools" as McPherson writes (23), then the corpora reading tools are no more revealing than human reading in terms of the balance between "objectivity" and "subjectivity."
+    * Following Eve Sedgwick's work on "paranoid and reparative reading," can there be a reparative form of computing reading? Can an interface reorganize and re-align? Can interfaces queer or be queer?
 
 ## May 25
+**Structural Minimalism**
+
+#### Recap: 
+ 
+* What did we cut out of our interface?
+* We cut out “reason” or a type of legibility
+* Word =/= meaning =/= action
+* Assumptions? Most about the “uselessness” of the interface:
+* Our base assumption is that the audience expects something useful; that interfaces are normatively or dominantly useful; that there is an assumed relation between the action word and the action itself. In sum: we made assumptions that the audience would assume something; the audience would be familiar with the genre
+* The audience would understand
+* The audience would appreciate
+* The audience would react
+* The audience would come to realize
 
 We keep coming back to the question of *audience* and the deep forms of interaction that are enabled (but also disallowed) by minimalism.
 
 Michael and I noticed that our base assumption was that our audience expected something useful. In other words, the audience always already demands something productive when approaching interfaces. Our interface was thus meant to trouble their normative expectations by untethering the relationship between word and meaning.
 
-Of course, interfaces are not always useful for the audience, as [[case study of the adblocker thing]] points out.
+Of course, interfaces are not always useful for the audience, as the ethical AdBlocker points out. By blocking out the entire website, the ethical Adblocker calls attention to the larger structure of ads and data marketing on websites; by doing so, the projects makes a judgement about the site, one that produces a larger block of productivity and ease of movement.
+
+It's interesting to pair the ethical Adblocker and accessibility interfaces as they both attend to the ways that 
+
+Case studies: 
+ 
+Wave--the API is expensive...but can it be integrated into a process? What might it mean for Endings to integrate accessibility as a core concern?
+ 
+Questions/reflection on the accessible edition workshop: the issue of value. Perhaps a paranoid critique, but how might foregrounding accessibility offer the same sort of sacrificial work that are worrying for minimal editions. What is lost in presuming the need for types of access (or what kind of hermeneutics/interpretations are we surfacing in creating these editions that foreclose other interpretations, taxonomize, etc?)
+
+### Workshop 1:
+ 
+Scenario: You’re teaching and you make your texts accessible in various formats. More important, you want to help your students navigate themes in the novels. You want to give the opportunity for the student to scan the text with those themes in mind. Design a text so students can scan it with their eyes and their ears.
+ 
+Wave validator: Investigating digital projects in dhcommons, but also investigating MoEML: structural issues of no “alt-text.”
+ 
+Scanning happens through structural or semantic data in a website
+ 
+ 
+Delineate in parts and make a linked TOC
+Separate the parts by original publication dates
+Link the separate memories/associate the memories
+
+
+### Workshop 2: 
+ 
+An edition faithful to temporality: A Temporary Memory analepsis/prolepsis
+ 
+One table of contents: 
+The structural elements of the text
+Grouped by original publication dates
+ 
+TOC 2: 
+Index of internal reference
+ 
+Theme/trope:
+Meta-moments, p17, ‘I remember this blah…’ 
 
 Workshop 3: Designing an exhibit
  
@@ -143,52 +194,9 @@ Dead drops
  
  
  
-Workshop 2: 
- 
-An edition faithful to temporality: A Temporary Memory analepsis/prolepsis
- 
-One table of contents: 
-The structural elements of the text
-Grouped by original publication dates
- 
-TOC 2: 
-Index of internal reference
- 
-Theme/trope:
-Meta-moments, p17, ‘I remember this blah…’ 
+
  
  
-Workshop 1:
- 
-Scenario: You’re teaching and you make your texts accessible in various formats. More important, you want to help your students navigate themes in the novels. You want to give the opportunity for the student to scan the text with those themes in mind. Design a text so students can scan it with their eyes and their ears.
- 
-Wave validator: Investigating digital projects in dhcommons, but also investigating MoEML: structural issues of no “alt-text.”
- 
-Scanning happens through structural or semantic data in a website
- 
- 
-Delineate in parts and make a linked TOC
-Separate the parts by original publication dates
-Link the separate memories/associate the memories
- 
- 
-Case studies: 
- 
-Wave--the API is expensive...but can it be integrated into a process? What might it mean for Endings to integrate accessibility as a core concern?
- 
-Questions/reflection on the accessible edition workshop: the issue of value. Perhaps a paranoid critique, but how might foregrounding accessibility offer the same sort of sacrificial work that are worrying for minimal editions. In other words, what is lost in presuming the need for types of access (or what kind of hermeneutics/interpretations are we surfacing in creating these editions that foreclose other interpretations, taxonomize, etc?)
- 
-Recap: 
- 
-What did we cut out of our interface?
-We cut out “reason” or a type of legibility
-Word =/= meaning =/= action
-Assumptions? Most about the “uselessness” of the interface:
-Our base assumption is that the audience expects something useful; that interfaces are normatively or dominantly useful; that there is an assumed relation between the action word and the action itself. In sum: we made assumptions that the audience would assume something; the audience would be familiar with the genre
-The audience would understand
-The audience would appreciate
-The audience would react
-The audience would come to realize
 
 
 ## May 26
@@ -202,7 +210,7 @@ Designs in use, rather than design in ideal
 How people use the space prior to installation
 Functional: use and features; structural: engagement, habit
  
-Visualization Workshop
+### Visualization Workshop
  
 Terms and classifications
 What are the kind of standards and ontologies at work in the visualizations you see in a digital project?
@@ -225,7 +233,17 @@ Working with Python: how might responsibility be distributed across modules, fun
 
 ## May 29
 
-[[Missed this day, so will have to write things about]]
+I missed this day, so I wasn't able to take advantage of the workshop. However, I do want to think through the question posed on the syllabus for today through the case studies:
+
+> How, then, do we engage facilitation and its assumptions through design as inquiry?
+
+
+
+To begin, I want to ask what Shelley Jackson's "my body - a Wunderkammer" makes easier or enables for the reader, if anything. A series of prose poems mapped out on the artist's rendering of the body, the project examples the ways in which the hypertext poem challenges the ease of the reading experience. The poems are linked both through links made on the artistic body and linked encoded within the HTML `<body/>` of the document. In doing so, Jackson's series resists linear narrative and normative interpretive techniques. In doing so, the project asks more from the reader, demanding particular attention to keep track of all of the poetic series' parts.
+
+In taking away the restrictions of the physical book, Jackson's poem does open up ways to engage with the work in creative ways. However, the series is also one that demands the labour of the reader; it asks us to read, trace, and follow the text throughout the site, which requires significant mental and interpretive labour. To thi  
+
+
 
 ## May 30
 
@@ -389,21 +407,34 @@ Sterne's MP3 book; why format studies are important
 
 #### My Presentation
 
-* Readability: chapters, TOC.
+* Notes: Readability: chapters, TOC.
+
+### Feedback:
+
+#### Michael
+
+I think your project would be useful to the following people:
+
+1) Anyone interested in the contents of the TRC. I think your project does a good job of not taking a stance on the TRC except to implicitly argue that it ought to be widely accessible, so hopefully the project would interest anyone who was already interested in the document itself, for whatever reason.
 
 
-### Workshop
-
-* Pair up organically with two other people to peer-review
-* Persona design
-* Make sure the feedback is in your log
-
-### Michael's Feedback
-
-* Not a passive reading
+2) Anyone interested in how government documents are circulated and preserved. Maybe people will look at your project and think that other documents, such the constitution or the criminal code, should be made available to the public in a similar form. Or maybe people will feel the reverse: that documents such as the TRC should follow existing procedures for circulating government documents digitally and not be circulated in new forms.
 
 
+3) Anyone interested how to engage the public with issues like those in the TRC. You made a really interesting point in your presentation, that you don't want the TRC to turn into some kind of "book club" reading material that everyone is encouraged to read and discuss in a possibly superficial way. I think that one of the challenges of your project will be to figure out how to encourage more thoughtful discussion, and I appreciated that you were clearly aware of that challenge.
 
+#### Rachel
+
+Joey's nuanced presentation highlighted the planning of a project that could obviously be of use to researchers and/or government officials who are seeking to glean information from or more broadly work with the TRC. I was compelled by the ingenuity and craftiness of Joey's proposed project, which is clearly needed as a tool to parse the TRC documents effectively and efficiently. Such a tool, I mentioned to Joey in conversation, could be marketed for personal use once completed. 
+
+
+#### Reflection on feedback
+
+It is interesting to see the parts of the project that the separate reviewers took away from my presentation. I particularly think one of the most exciting parts of the project will be how it interacts with the existing forums for reading the TRC, namely the the National Center for Truth and Reconciliation as well as social media.
+
+One thing that I should clarify in my documentation is that the code I am using *is* adaptable, but it likely won't be that exciting for others since there are a variety of better tools for parsing PDF documents into XHTML5. Each have their drawbacks, but if someone wants to turn a PDF into an HTML page, there is code that works much faster and more intuitively. The advantage of my project, I hope, is that it will model a workflow for creating light-weight, minimal, and well-encoded documents.
+
+To speak to Michael's concern about facilitating conversation about the TRC: my hope is that my interface strips away some of the argumentation about the TRC other than foregrounding its cultural importance. The implicit side that the project takes is that it's a document that ought to be read widely and considered deeply. But my aim isn't to render the text skeptically; instead, I hope that design of the site will allow the text to be considered as text.
 
 
 
