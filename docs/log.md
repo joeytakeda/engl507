@@ -167,10 +167,9 @@ HTML source of *David Copperfield*
 
 [Source file](dc.html)
 
-I'm interested in the flatness of MarkDown. Flatness is certainly an aesthetic of minimalism (I think of Apple's branding; also, Brent Lin's work on Deleuze and Guattari, marketing, Urban Outfitters, and minimalism is helpful here), but is it one of accessibility? That is, how does flatness present more barriers than it might seem? Hierarchy, at least in digital infrastructures, is important to denote embeddness and relation. While precendence within flatness can be represented visually, how can one navigate flatness?
+I'm interested in the flatness of MarkDown. Flatness is certainly an aesthetic of minimalism (I think of Apple's branding; also, Brent Lin's work on Deleuze and Guattari, marketing, Urban Outfitters, and minimalism is helpful here), but is it one of accessibility? That is, how does flatness present more barriers than it might seem? Hierarchy, at least in digital infrastructures, is important to denote embeddness and relation. While precendence within flatness can be represented visually, how can one navigate flatness? The language of ability persistently reminds us of texture: metaphors of climbing and hurdles (like in the amazing work of [Eli Claire](http://courses.washington.edu/intro2ds/Readings/8_Clare-mountain.pdf)) are frequently used to signal the significant forces that hinder the marginalized. But arguably flatness does not undo the significant barriers that differently abled people experience; in flattening the HTML structure, Markdown makes the judgement that all elements are level with one another, making it significantly harder to navigate, chunk, or otherwise explore the document without the aid of visual references. (I think here, too, of Sara Ahmed's *Queer Phenomology* and the impulse to straighten orientations in order to provide cleaner lines to follow.)
 
-
-
+WebAim does a good job of rethinking the aesthetics of accessibility and focuses on the validity of websites to account for the variety of ways people can interact with HTML. Their validator is an excellent service for outlining the various design features that are used by accessibility technologies to help navigate the page. But, as I mentioned briefly above in my notes, WebAim also monetizes their API so that people who are concerned with accessibility have to pay hundreds of dollars to draw on their algorithms. While projects that foreground accessibility like WebAim ought to be fully funded, it is an odd irony that WebAim makes a deep class assumption about web developers. The assumption is a valid one, of course, with the surplus of upper-middle-class programmers and the dominant "bro-gramming" culture of digital work. Yet it is still troubling that accessibility must come at a significant cost. How can we think of accessibility intersectionally? As well, to return to the question of flattness above, how can we think about the intersection of queerness and disability, particularly neurodivergence and non-normative ways of interacting with the world? Can we create interfaces that give the ability to choose the modes and forms of interaction? 
 
 ### Workshop 2: Designing an exhibit
  
@@ -182,32 +181,16 @@ I'm interested in the flatness of MarkDown. Flatness is certainly an aesthetic o
 * Materials and their location
 * Descriptions and their location
 * Curatorial decisions and their location
- 
-Joy Kogawa stuff at UBC.
-Determining the proper stairs to put the exhibit; the geography of the disciplines in Clearihue
-Negotiation, interface
-What kind of experience are they supposed to have? 
- 
- 
-Maps of BC in varying states going throughout the ceiling things
-And then just small bits of text with explanatory materials beside
- 
-IDEAS:
-Digital Photo Frame
-QR Code [commercialization?]
-Dead drops
- 
- 
- 
 
- 
- 
+Our exhibit would draw on the publication materials of Joy Kogawa's *Obasan*, which are kept at the University of British Columbia. Kogawa is receiving an honourary doctorate this year at UVic, so we thought it fitting to reflect her legacy as an exhibit.
+
+We would display the exhibit in the stairwell between the English and History department in Clearihue to represent the necessary interdisciplinarity of engagements with Kogawa's work. As well, the exhibit will then be confrontational insofar as it is unavoidable to those who take those stairs daily. We would line the bottom of the upper stairwells with maps of British Columbia that would be overlayed with the boundaries of Indigenous nations as well as with points denoting the locations of Japanese internment. 
+
+Choosing the stairs as an exhibit space does foreclose the accessibility of the exhibit. There would be digital artifacts--images, facsimiles, and texts--that would be curated online that would attempt to mimic the ways the exhibit is displayed in the stairs. 
 
 
 ## May 26
 
-
-Class today is 
 ### Notes
 * Picking back up from yesterday.
 * Questions of access--and the everyday
@@ -238,8 +221,9 @@ What are the kind of standards and ontologies at work in the visualizations you 
 * 3 ways that you would visualize ‘edge-significance’ 
 * Example: https://linkedjazz.org/ontology-building-for-linked-open-data-a-pragmatic-perspective/
 
-For this workshop, MC and I created an ontology for the study of Hardy criticism. 
+For this workshop, MC and I created an ontology for the study of Hardy criticism. We decided to make it based both off of the work as well as the author and publisher to understand how critical camps are formed. 
 
+This ontology is fairly practical in terms of navigating the criticism of Hardy. It is difficult, as Riley and Alyssa mentioned in their review of our ontology, to think through value judgements with computers. We could model based off of sentiment or topics, but it is still an unreliable way to navigate criticism. In determining relations, can computers critique?
 
 ## May 29
 
@@ -399,11 +383,20 @@ Sterne's MP3 book; why format studies are important
 * What sort of harmonies/cacophonies are you trying to strike in this project? Thinking about Chrystos being associated with Riot Grrrrl?
 * The relationship between bodies and sound and affect and technology? 
 
+##### My feedback to Rachel
+
+Rachel's proposed project draws on a number of sources and resources that will reach a wide audience. The project will be interesting for those who study queer poetry and poetics on the West Coast as well as researchers of queer performance and sound studies more broadly. In focusing on the relationship between sound and the body, as well as the position of the researcher in their work, Rachel's presentation also articulated the stakes of the connection research-art-sound as it plays out in the archive--particularly cacophonous or discordant relationships in the entanglement of researcher/archive. Rachel's project is thus an interesting contribution to the study of the chosen texts as well as a powerful critical methodology for thinking through a form of ephemeral materiality implied by the "sonic flesh."
+
 #### Michael
 
 * Title: "In Dialogue: Thomas Hardy's *The Woodlanders* and the French Impressionists"
 * Pairing French impressionist paintings with quotations from Hardy
 * Using evidence to make the connection, but not making any claim about the connection (no causality)
+
+##### My feedback to Michael
+
+Michael's proposed project offers an exciting interrogation of the relationship between text and image in Hardy's *The Woodlanders*. As evidenced by the seminar participants' engagement with the presentation, Michael's project is useful for those broadly interested in the entangled histories of art and literature. The project will also be useful for Hardy scholars who hope to clarify the connection between Impressionist painting and Hardy's attempt to emulate the style textually. (One of my favourite aspects of the presentation was the wealth of evidence and research that supports Michael's editorial/curatorial decisions.) Last, the project will be helpful for theorists of the relationship between text and image, especially those who argue for parallel reading of text and image on their own terms; Michael's project is an excellent case study for such a purpose.
+
 
 
 #### Hector / Reuben
