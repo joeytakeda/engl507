@@ -227,16 +227,15 @@ This ontology is fairly practical in terms of navigating the criticism of Hardy.
 
 ## May 29
 
-I missed this day, so I wasn't able to take advantage of the workshop. However, I do want to think through the question posed on the syllabus for today through the case studies:
+I missed this day, so I wasn't able to take advantage of the workshop. However, I do want to think through the question posed on the syllabus for today: 
 
 > How, then, do we engage facilitation and its assumptions through design as inquiry?
 
+I think this question aligns with the question I asked earlier: "What do interfaces want?" Can we build in the desire for being used into our interfaces? Jackson's "my body -- a Wunderkammer" might answer this; her interface is simultaneously an exploration into the visual and the digital to represent a corpus of work, a series of texts that challenge linear narrative time, and an evocative mixing of the agency of the user in navigating works. In representing the female body and anatomizing her art into body parts, Jackson's project adds a hypertextual element to the Male Gaze; where does one choose to click on this body--both male gaze and male click. 
 
+This is not to say that Jackson's project panders to patriarchy modes of interaction. Jackson writes the body, in her project, as a series of complex interactions that disrupt normative narrative modes. As Ken Fricklas expresses in the credits of the site ("Artwork by Shelley Jackson, hopefully not too badly munged by Ken"), the rendered body is difficult to represent accurately on the web. How do we render the body visible online and engage interaction? 
 
-To begin, I want to ask what Shelley Jackson's "my body - a Wunderkammer" makes easier or enables for the reader, if anything. A series of prose poems mapped out on the artist's rendering of the body, the project examples the ways in which the hypertext poem challenges the ease of the reading experience. The poems are linked both through links made on the artistic body and linked encoded within the HTML `<body/>` of the document. In doing so, Jackson's series resists linear narrative and normative interpretive techniques. In doing so, the project asks more from the reader, demanding particular attention to keep track of all of the poetic series' parts.
-
-In taking away the restrictions of the physical book, Jackson's poem does open up ways to engage with the work in creative ways. However, the series is also one that demands the labour of the reader; it asks us to read, trace, and follow the text throughout the site, which requires significant mental and interpretive labour. To thi  
-
+I speak about Jackson's project at length here since it evokes questions about whether design as inquiry ought to engage facilitation. Should our designs always desire use? What about design that takes away agency and forecloses facilitation (like "Heavy Industries"). Or are designs always sites that facilitate interaction, whether positive or negative? What are the repercussions of the critical impulse to engage with design?
 
 
 ## May 30
@@ -260,10 +259,10 @@ In taking away the restrictions of the physical book, Jackson's poem does open u
 ### Working Design Brief
 
 **Working title**:
- The Public TRC
+ The Public TRC [Is this the best title?]
 
 **Tagline**:
- ???
+ ??? 
 
 **Type**: 
 A digital edition / a toolset for doing similar work
@@ -396,8 +395,6 @@ Rachel's proposed project draws on a number of sources and resources that will r
 ##### My feedback to Michael
 
 Michael's proposed project offers an exciting interrogation of the relationship between text and image in Hardy's *The Woodlanders*. As evidenced by the seminar participants' engagement with the presentation, Michael's project is useful for those broadly interested in the entangled histories of art and literature. The project will also be useful for Hardy scholars who hope to clarify the connection between Impressionist painting and Hardy's attempt to emulate the style textually. (One of my favourite aspects of the presentation was the wealth of evidence and research that supports Michael's editorial/curatorial decisions.) Last, the project will be helpful for theorists of the relationship between text and image, especially those who argue for parallel reading of text and image on their own terms; Michael's project is an excellent case study for such a purpose.
-
-
 
 #### Hector / Reuben
 
