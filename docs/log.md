@@ -132,9 +132,8 @@ Michael and I noticed that our base assumption was that our audience expected so
 
 Of course, interfaces are not always useful for the audience, as the ethical AdBlocker points out. By blocking out the entire website, the ethical Adblocker calls attention to the larger structure of ads and data marketing on websites; by doing so, the projects makes a judgement about the site, one that produces a larger block of productivity and ease of movement.
 
-It's interesting to pair the ethical Adblocker and accessibility interfaces as they both attend to the ways that 
 
-Case studies: 
+### Case studies: 
  
 Wave--the API is expensive...but can it be integrated into a process? What might it mean for Endings to integrate accessibility as a core concern?
  
@@ -142,16 +141,30 @@ Questions/reflection on the accessible edition workshop: the issue of value. Per
 
 ### Workshop 1:
  
-Scenario: You’re teaching and you make your texts accessible in various formats. More important, you want to help your students navigate themes in the novels. You want to give the opportunity for the student to scan the text with those themes in mind. Design a text so students can scan it with their eyes and their ears.
+**Scenario**: You’re teaching and you make your texts accessible in various formats. More important, you want to help your students navigate themes in the novels. You want to give the opportunity for the student to scan the text with those themes in mind. Design a text so students can scan it with their eyes and their ears.
  
-Wave validator: Investigating digital projects in dhcommons, but also investigating MoEML: structural issues of no “alt-text.”
- 
-Scanning happens through structural or semantic data in a website
- 
- 
-Delineate in parts and make a linked TOC
-Separate the parts by original publication dates
-Link the separate memories/associate the memories
+**Process**:
+* Delineate in parts and make a linked TOC
+* Separate the parts by original publication dates
+* Link the separate memories/associate the memories
+
+Recalling some of the issues from the first and second workshops of the course, Michael and I worked in MarkDown to create out accessible edition. We took data from the Gutenberg project's text version of *David Copperfield* and created a linked table of contents that would allow for quick navigation of the text. 
+
+
+![David Copperfield](../images/dc1.png "'MarkDown' version of David Copperfield")
+
+Above is our version of the text in "MarkDown"; I use quotation marks here since this is not encoded in MarkDown. We worked in TextEdit, which, by default, outputs text in RTF. When we attempted to convert it using PanDoc, we realized the wealth of underlying encoding that was driving the TextEdit interface and thus interrupting our conversion process.
+
+![David Copperfield](../images/dc2.png "Actual version of DC")
+
+We rewrote the text so that it was in pure MarkDown ([here](dc.txt))and then converted it to this:
+
+![David Copperfield](../images/dc3.png "HTML version of DC")
+[Source file](dc.html)
+
+
+
+
 
 
 ### Workshop 2: 
@@ -201,34 +214,39 @@ Dead drops
 
 ## May 26
 
-Picking back up from yesterday.
-Questions of access--and the everyday
-Thinking about context, embodiment, access, modalities
-Tactile and lived experiences for audiences
-Navigation relies on seeing, vision, movement, touch
-Designs in use, rather than design in ideal
-How people use the space prior to installation
-Functional: use and features; structural: engagement, habit
+
+Class today is 
+### Notes
+* Picking back up from yesterday.
+* Questions of access--and the everyday
+* Thinking about context, embodiment, access, modalities
+* Tactile and lived experiences for audiences
+* Navigation relies on seeing, vision, movement, touch
+* Designs in use, rather than design in ideal
+* How people use the space prior to installation
+* Functional: use and features; structural: engagement, habit
  
+* Visualization is tied to quantitative graphical representation
+* Treating data is a resource; the points are tangible
+* Johanna Drucker and Gittleman: All data are cooked; there is no raw data. And that all data (or capta) are produced
+* Flatness--how to make it more robust, and to think with it rather than consider it as proof
+* Data visualization as an art form
+* What happens when you flatten material so that people can navigate it? To what ends?
+* “How do we engage modularization, responsibility?” 
+  * This question is particularly thought-provoking for me. I hadn't thought of how responsibility and accountability function in the context of the digital. I'm unsure, though, about how networking, importing, and "calling" other modules allows or forecloses a more distributed sense of responsibility. Here I think of new materialist and posthumanist considerations of accountability, particularly Donna Haraway's recent *Staying with the Trouble* (2016). Haraway urges us to let go of the concept of the Anthropocene ("sky gazing homo" [8]) and consider our epoch that of the Chthonic ones (which, interestingly, is the Greek for "of the earth" and has etymological ties with the autochthonous). This shift moves from thinking about centering responsibility and distributing across varying scales to think of the tentacularity (her term) of accountability. I think rethinking this move of distributed responsibility in light of programmatic modularity and function calls highlights the *dangers* of distributed accountability. Is it the compiler, the main program's programmer, the module developer who is culpable for the negative effects of code? Or is it in the "intra-action" (Barad) of the code fragments that responsibility is simultaneously produced and distributed? 
+
+
 ### Visualization Workshop
  
-Terms and classifications
+Terms and classifications:
+
 What are the kind of standards and ontologies at work in the visualizations you see in a digital project?
-Think through a concept model 
  
-Think of 5 relations
-3 ways that you would visualize ‘edge-significance’ 
-Example: https://linkedjazz.org/ontology-building-for-linked-open-data-a-pragmatic-perspective/
- 
-Visualization is tied to quantitative graphical representation
-Treating data is a resource; the points are tangible
-Johanna Drucker and Gittleman: All data are cooked; there is no raw data. And that all data (or capta) are produced
-Flatness--how to make it more robust, and to think with it rather than consider it as proof
-Data visualization as an art form
-What happens when you flatten material so that people can navigate it? To what ends?
-“How do we engage modularization, responsibility?” 
- 
-Working with Python: how might responsibility be distributed across modules, functions, etc? (Does Python distinguish between public and private class like Java?)
+* Think of 5 relations
+* 3 ways that you would visualize ‘edge-significance’ 
+* Example: https://linkedjazz.org/ontology-building-for-linked-open-data-a-pragmatic-perspective/
+
+For this workshop, MC and I created an ontology for the study of Hardy criticism. 
 
 
 ## May 29
