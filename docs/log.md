@@ -160,39 +160,28 @@ Above is our version of the text in "MarkDown"; I use quotation marks here since
 We rewrote the text so that it was in pure MarkDown ([here](dc.txt))and then converted it to this:
 
 ![David Copperfield](../images/dc3.png "HTML version of DC")
+HTML version of *David Copperfield*
+
 ![David Copperfield Source](../images/dc4.png "HTML code version of DC")
+HTML source of *David Copperfield*
+
 [Source file](dc.html)
 
+I'm interested in the flatness of MarkDown. Flatness is certainly an aesthetic of minimalism (I think of Apple's branding; also, Brent Lin's work on Deleuze and Guattari, marketing, Urban Outfitters, and minimalism is helpful here), but is it one of accessibility? That is, how does flatness present more barriers than it might seem? Hierarchy, at least in digital infrastructures, is important to denote embeddness and relation. While precendence within flatness can be represented visually, how can one navigate flatness?
 
 
 
 
-
-
-
-### Workshop 2: 
+### Workshop 2: Designing an exhibit
  
-An edition faithful to temporality: A Temporary Memory analepsis/prolepsis
- 
-One table of contents: 
-The structural elements of the text
-Grouped by original publication dates
- 
-TOC 2: 
-Index of internal reference
- 
-Theme/trope:
-Meta-moments, p17, ‘I remember this blah…’ 
-
-Workshop 3: Designing an exhibit
- 
-Select a collection of materials
-Identify a theme (or exhibit title) for navigating the theme
-Select a space on campus
-Detail + sketch: [tactile, digital, both?]
-Materials and their location
-Descriptions and their location
-Curatorial decisions and their location
+**Instructions**:
+* Select a collection of materials
+* Identify a theme (or exhibit title) for navigating the theme
+* Select a space on campus
+* Detail + sketch: [tactile, digital, both?]
+* Materials and their location
+* Descriptions and their location
+* Curatorial decisions and their location
  
 Joy Kogawa stuff at UBC.
 Determining the proper stairs to put the exhibit; the geography of the disciplines in Clearihue
