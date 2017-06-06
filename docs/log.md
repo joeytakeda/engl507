@@ -160,7 +160,10 @@ Above is our version of the text in "MarkDown"; I use quotation marks here since
 We rewrote the text so that it was in pure MarkDown ([here](dc.txt))and then converted it to this:
 
 ![David Copperfield](../images/dc3.png "HTML version of DC")
+![David Copperfield Source](../images/dc4.png "HTML code version of DC")
 [Source file](dc.html)
+
+
 
 
 
